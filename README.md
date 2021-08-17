@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daveyegh
 - 👀 Coding, Books, Gym, Business
-- 🌱 I’m currently learning React JS, Redux
+- 🌱 I’m currently learning Redux
 - 📫 How to reach me TG: @coderokdavid
 
 <!---
