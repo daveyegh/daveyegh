@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daveyegh
 - 👀 Coding, Books, Gym, Business
 - 🌱 I’m currently learning Node.js Backend Development
-- 📫 How to reach me TG: @DavidYeghiazaryan
+- 📫 How to reach me TG: @daveyegh
 
 <!---
 daveyegh/daveyegh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
